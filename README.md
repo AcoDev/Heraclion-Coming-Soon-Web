@@ -11,4 +11,12 @@ Coming Soon Website for Heraclion BT
   <img src="https://contrib.rocks/image?repo=AcoDev/Heraclion-Coming-Soon-Web" />
 </a>
 
-![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg) ![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)
+
+<br />
+
+[![Support Server](https://img.shields.io/discord/769028960372654150.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/invite/MuC2KJjAQh)
+
+<br />
+
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
